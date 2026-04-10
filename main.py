@@ -1,3 +1,8 @@
+# ----------------------------------------
+# Created by: Young Lim
+# GitHub: github.com/ianlim8234-cell
+# ----------------------------------------
+
 import cv2
 import mediapipe as mp
 from mediapipe.tasks.python import vision
